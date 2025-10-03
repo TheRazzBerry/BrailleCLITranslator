@@ -15,7 +15,7 @@ Originally a coding challenge for Shopify's Fall - Winter 2025 Engineering inter
   - The ability to include `spaces` ie: multiple words
 
 <p align='center'>
-    <img src='./braille.jpg' alt='Braille Alphabet' />
+    <img src='./public/braille.jpg' alt='Braille Alphabet' />
 </p>
 <p align='center'>
     <em style='font-size:xx-small;'>Black dots represent raised areas</em>
