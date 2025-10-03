@@ -1,5 +1,28 @@
 # BrailleCLITranslator
-Originally a coding challenge for Shopify's Fall - Winter 2025 Engineering internship program.
+Originally a coding challenge for Shopify's Fall - Winter 2025 Engineering internship program. Original challenge requirements and image reference at the bottom.
+
+## How To Use
+In the terminal, 'CD' into the project directory and input 'node translate.js' before the text you wish to translate.
+
+<b>Input:</b>
+<code>
+node translate.js Hello
+</code>
+<br>
+<b>Output:</b>
+<code>
+.....OO.OO..O..O..O.O.O.O.O.O.O..OO.
+</code>
+
+<b>Input:</b>
+<code>
+node translate.js .....OO.OO..O..O..O.O.O.O.O.O.O..OO.
+</code>
+<br>
+<b>Output:</b>
+<code>
+Hello
+</code>
 
 ## Technical Requirements
 - Translator
@@ -14,6 +37,7 @@ Originally a coding challenge for Shopify's Fall - Winter 2025 Engineering inter
   - Numbers `0` through `9`
   - The ability to include `spaces` ie: multiple words
 
+## Braille Reference
 <p align='center'>
     <img src='./public/braille.jpg' alt='Braille Alphabet' />
 </p>
