@@ -4,25 +4,13 @@ Originally a coding challenge for Shopify's Fall - Winter 2025 Engineering inter
 ## How To Use
 In the terminal, 'CD' into the project directory and input 'node translate.js' before the text you wish to translate.
 
-<b>Input:</b>
-<code>
-node translate.js Hello
-</code>
-<br>
-<b>Output:</b>
-<code>
-.....OO.OO..O..O..O.O.O.O.O.O.O..OO.
-</code>
+Input: <code>node translate.js Hello</code>
 
-<b>Input:</b>
-<code>
-node translate.js .....OO.OO..O..O..O.O.O.O.O.O.O..OO.
-</code>
-<br>
-<b>Output:</b>
-<code>
-Hello
-</code>
+Output: <code>.....OO.OO..O..O..O.O.O.O.O.O.O..OO.</code>
+
+Input: <code>node translate.js .....OO.OO..O..O..O.O.O.O.O.O.O..OO.</code>
+
+Output:<code>Hello</code>
 
 ## Technical Requirements
 - Translator
