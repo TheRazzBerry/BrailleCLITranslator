@@ -7,6 +7,11 @@ In the terminal, 'CD' into the project directory and input 'node translate.js' b
 Input: <code>node translate.js Hello</code><br>
 Output: <code>.....OO.OO..O..O..O.O.O.O.O.O.O..OO.</code>
 
+You can translate in the opposite direction as well!
+
+Input: <code>node translate.js .....OO.OO..O..O..O.O.O.O.O.O.O..OO.</code><br>
+Output: <code>Hello</code>
+
 ## Technical Requirements
 - Translator
   - Given arguments passed into the program at runtime, determine if the given string should be translated to English or Braille.
