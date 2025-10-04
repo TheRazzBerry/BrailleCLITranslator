@@ -1,5 +1,5 @@
 # BrailleCLITranslator
-Originally a coding challenge for Shopify's Fall - Winter 2025 Engineering internship program. Original challenge requirements and image reference at the bottom.
+My solution to a coding challenge for Shopify's Fall - Winter 2025 Engineering internship program. Original challenge requirements and image reference at the bottom.
 
 ## How To Use
 In the terminal, 'CD' into the project directory and input 'node translate.js' before the text you wish to translate.
@@ -30,5 +30,5 @@ Output: <code>Hello</code>
     <img src='./public/braille.jpg' alt='Braille Alphabet' />
 </p>
 <p align='center'>
-    <em style='font-size:xx-small;'>Black dots represent raised areas</em>
+    <em style='font-size:small;'>Black dots represent raised areas</em>
 </p>
